@@ -1,4 +1,4 @@
-# Internship Project Report
+# Summer Training Project Report
 
 ## Project Title
 **Traffic Management Low Level Simulation**
