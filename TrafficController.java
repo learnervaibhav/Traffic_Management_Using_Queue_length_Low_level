@@ -28,9 +28,9 @@ public class TrafficController {
 
         for (int step = 1; step <= steps; step++) {
 
-            System.out.println("\n=======================================");
+            
             System.out.println("STEP " + step);
-            System.out.println("=======================================");
+            System.out.println();
 
             generateTraffic();
 
@@ -131,9 +131,9 @@ public class TrafficController {
 
     private void printSummary() {
 
-        System.out.println("\n====================================");
+        
         System.out.println("SIMULATION SUMMARY");
-        System.out.println("====================================");
+        System.out.println();
 
         System.out.println("Cycles : " + stats.totalCycles);
 
